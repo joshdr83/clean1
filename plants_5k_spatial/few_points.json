@@ -1,0 +1,1178 @@
+[
+  {
+    "version": "v1",
+    "data": {
+      "id": "plants_5k.geojson",
+      "label": "new dataset",
+      "color": [
+        143,
+        47,
+        191
+      ],
+      "allData": [
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -106.37500000278042,
+                31.754982460172652
+              ]
+            },
+            "properties": {
+              "Plant Code": 9,
+              "MMBTU_net": 665720,
+              "MWh_net": 33888,
+              "Latitude": 31.7569,
+              "Longitude": -106.375,
+              "min_dist_t": 2352.633180604327
+            }
+          },
+          9,
+          665720,
+          33888,
+          31.7569,
+          -106.375,
+          2352.633180604327
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -97.41920300177166,
+                27.81764311279644
+              ]
+            },
+            "properties": {
+              "Plant Code": 3441,
+              "MMBTU_net": 9020808,
+              "MWh_net": 1186862,
+              "Latitude": 27.819412,
+              "Longitude": -97.419203,
+              "min_dist_t": 1614.9622036181
+            }
+          },
+          3441,
+          9020808,
+          1186862,
+          27.819412,
+          -97.419203,
+          1614.9622036181
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.87800000119668,
+                30.0223435593276
+              ]
+            },
+            "properties": {
+              "Plant Code": 3459,
+              "MMBTU_net": 57296899,
+              "MWh_net": 4749439.4,
+              "Latitude": 30.0242,
+              "Longitude": -93.878,
+              "min_dist_t": 2726.667813593035
+            }
+          },
+          3459,
+          57296899,
+          4749439.4,
+          30.0242,
+          -93.878,
+          2726.667813593035
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.92560000137036,
+                29.74815385798788
+              ]
+            },
+            "properties": {
+              "Plant Code": 3460,
+              "MMBTU_net": 21662619,
+              "MWh_net": 1908370,
+              "Latitude": 29.75,
+              "Longitude": -94.9256,
+              "min_dist_t": 4901.877424741959
+            }
+          },
+          3460,
+          21662619,
+          1908370,
+          29.75,
+          -94.9256,
+          4901.877424741959
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.21942900141791,
+                29.820352129699554
+              ]
+            },
+            "properties": {
+              "Plant Code": 3464,
+              "MMBTU_net": 1671962,
+              "MWh_net": 110857,
+              "Latitude": 29.822201,
+              "Longitude": -95.219429,
+              "min_dist_t": 1385.3805179345513
+            }
+          },
+          3464,
+          1671962,
+          110857,
+          29.822201,
+          -95.219429,
+          1385.3805179345513
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.04062200138918,
+                29.692993950331598
+              ]
+            },
+            "properties": {
+              "Plant Code": 7325,
+              "MMBTU_net": 12234986,
+              "MWh_net": 932558,
+              "Latitude": 29.694838,
+              "Longitude": -95.040622,
+              "min_dist_t": 89.70240885939528
+            }
+          },
+          7325,
+          12234986,
+          932558,
+          29.694838,
+          -95.040622,
+          89.70240885939528
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.19520000141559,
+                29.227473880867883
+              ]
+            },
+            "properties": {
+              "Plant Code": 10154,
+              "MMBTU_net": 8972639,
+              "MWh_net": 602915,
+              "Latitude": 29.2293,
+              "Longitude": -95.1952,
+              "min_dist_t": 384.1899806615343
+            }
+          },
+          10154,
+          8972639,
+          602915,
+          29.2293,
+          -95.1952,
+          384.1899806615343
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.91970000136925,
+                29.822851035486522
+              ]
+            },
+            "properties": {
+              "Plant Code": 10261,
+              "MMBTU_net": 2135183,
+              "MWh_net": 151143,
+              "Latitude": 29.8247,
+              "Longitude": -94.9197,
+              "min_dist_t": 629.0640262411911
+            }
+          },
+          10261,
+          2135183,
+          151143,
+          29.8247,
+          -94.9197,
+          629.0640262411911
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.04580000139019,
+                29.620658704566125
+              ]
+            },
+            "properties": {
+              "Plant Code": 10298,
+              "MMBTU_net": 29918382,
+              "MWh_net": 2107719,
+              "Latitude": 29.6225,
+              "Longitude": -95.0458,
+              "min_dist_t": 373.7300834471231
+            }
+          },
+          10298,
+          29918382,
+          2107719,
+          29.6225,
+          -95.0458,
+          373.7300834471231
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.99727700138202,
+                29.751670724815774
+              ]
+            },
+            "properties": {
+              "Plant Code": 10436,
+              "MMBTU_net": 13910135,
+              "MWh_net": 998885,
+              "Latitude": 29.753517,
+              "Longitude": -94.997277,
+              "min_dist_t": 206.75340046297384
+            }
+          },
+          10436,
+          13910135,
+          998885,
+          29.753517,
+          -94.997277,
+          206.75340046297384
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.00964800138404,
+                29.75727751256528
+              ]
+            },
+            "properties": {
+              "Plant Code": 10692,
+              "MMBTU_net": 35982412,
+              "MWh_net": 2794864,
+              "Latitude": 29.759124,
+              "Longitude": -95.009648,
+              "min_dist_t": 385.79120754514565
+            }
+          },
+          10692,
+          35982412,
+          2794864,
+          29.759124,
+          -95.009648,
+          385.79120754514565
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.75790000117648,
+                30.053342405710065
+              ]
+            },
+            "properties": {
+              "Plant Code": 10789,
+              "MMBTU_net": 21761362,
+              "MWh_net": 2420707.01,
+              "Latitude": 30.0552,
+              "Longitude": -93.7579,
+              "min_dist_t": 1778.0506205390834
+            }
+          },
+          10789,
+          21761362,
+          2420707.01,
+          30.0552,
+          -93.7579,
+          1778.0506205390834
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -97.52810000178788,
+                27.830430574165803
+              ]
+            },
+            "properties": {
+              "Plant Code": 50026,
+              "MMBTU_net": 3489278,
+              "MWh_net": 287359,
+              "Latitude": 27.8322,
+              "Longitude": -97.5281,
+              "min_dist_t": 4324.655135754437
+            }
+          },
+          50026,
+          3489278,
+          287359,
+          27.8322,
+          -97.5281,
+          4324.655135754437
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.08390000139615,
+                29.729554562733313
+              ]
+            },
+            "properties": {
+              "Plant Code": 50043,
+              "MMBTU_net": 19112898,
+              "MWh_net": 1835524.23,
+              "Latitude": 29.7314,
+              "Longitude": -95.0839,
+              "min_dist_t": 494.6643845646264
+            }
+          },
+          50043,
+          19112898,
+          1835524.23,
+          29.7314,
+          -95.0839,
+          494.6643845646264
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -97.481400001781,
+                27.815731193357713
+              ]
+            },
+            "properties": {
+              "Plant Code": 50121,
+              "MMBTU_net": 353273,
+              "MWh_net": 24446.543,
+              "Latitude": 27.8175,
+              "Longitude": -97.4814,
+              "min_dist_t": 399.35281612373996
+            }
+          },
+          50121,
+          353273,
+          24446.543,
+          27.8175,
+          -97.4814,
+          399.35281612373996
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.94647700137472,
+                29.374288173573856
+              ]
+            },
+            "properties": {
+              "Plant Code": 50153,
+              "MMBTU_net": 0,
+              "MWh_net": 0,
+              "Latitude": 29.37612,
+              "Longitude": -94.946477,
+              "min_dist_t": 1213.5423217836012
+            }
+          },
+          50153,
+          0,
+          0,
+          29.37612,
+          -94.946477,
+          1213.5423217836012
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.25470000142384,
+                29.696255826405213
+              ]
+            },
+            "properties": {
+              "Plant Code": 50229,
+              "MMBTU_net": 10690612,
+              "MWh_net": 207074.22,
+              "Latitude": 29.6981,
+              "Longitude": -95.2547,
+              "min_dist_t": 289.447161920016
+            }
+          },
+          50229,
+          10690612,
+          207074.22,
+          29.6981,
+          -95.2547,
+          289.447161920016
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.12885600140345,
+                29.72133987424475
+              ]
+            },
+            "properties": {
+              "Plant Code": 50304,
+              "MMBTU_net": 15173983,
+              "MWh_net": 1108099.7,
+              "Latitude": 29.723185,
+              "Longitude": -95.128856,
+              "min_dist_t": 1114.8636170620507
+            }
+          },
+          50304,
+          15173983,
+          1108099.7,
+          29.723185,
+          -95.128856,
+          1114.8636170620507
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.0753000012296,
+                30.061742093485577
+              ]
+            },
+            "properties": {
+              "Plant Code": 50625,
+              "MMBTU_net": 38846998,
+              "MWh_net": 3829087.89,
+              "Latitude": 30.0636,
+              "Longitude": -94.0753,
+              "min_dist_t": 1342.374758612142
+            }
+          },
+          50625,
+          38846998,
+          3829087.89,
+          30.0636,
+          -94.0753,
+          1342.374758612142
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.10773000139983,
+                29.81425135978734
+              ]
+            },
+            "properties": {
+              "Plant Code": 50815,
+              "MMBTU_net": 38495955,
+              "MWh_net": 3341933,
+              "Latitude": 29.8161,
+              "Longitude": -95.10773,
+              "min_dist_t": 1167.594934019331
+            }
+          },
+          50815,
+          38495955,
+          3341933,
+          29.8161,
+          -95.10773,
+          1167.594934019331
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.9509840012091,
+                29.886610636260986
+              ]
+            },
+            "properties": {
+              "Plant Code": 50973,
+              "MMBTU_net": 16296758,
+              "MWh_net": 673431.149,
+              "Latitude": 29.888462,
+              "Longitude": -93.950984,
+              "min_dist_t": 2515.690593892647
+            }
+          },
+          50973,
+          16296758,
+          673431.149,
+          29.888462,
+          -93.950984,
+          2515.690593892647
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.94382900137427,
+                29.376865073829148
+              ]
+            },
+            "properties": {
+              "Plant Code": 52088,
+              "MMBTU_net": 24066110,
+              "MWh_net": 1624382,
+              "Latitude": 29.378697,
+              "Longitude": -94.943829,
+              "min_dist_t": 1474.0891017750246
+            }
+          },
+          52088,
+          24066110,
+          1624382,
+          29.378697,
+          -94.943829,
+          1474.0891017750246
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.40748100145076,
+                28.989472235107296
+              ]
+            },
+            "properties": {
+              "Plant Code": 52120,
+              "MMBTU_net": 34495325,
+              "MWh_net": 3325554.9899999998,
+              "Latitude": 28.991289,
+              "Longitude": -95.407481,
+              "min_dist_t": 1753.959856924324
+            }
+          },
+          52120,
+          34495325,
+          3325554.9899999998,
+          28.991289,
+          -95.407481,
+          1753.959856924324
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.92195000137069,
+                29.37633209445862
+              ]
+            },
+            "properties": {
+              "Plant Code": 52132,
+              "MMBTU_net": 4650107,
+              "MWh_net": 350047,
+              "Latitude": 29.378164,
+              "Longitude": -94.92195,
+              "min_dist_t": 659.9532486674225
+            }
+          },
+          52132,
+          4650107,
+          350047,
+          29.378164,
+          -94.92195,
+          659.9532486674225
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.21420000125286,
+                29.97094547689849
+              ]
+            },
+            "properties": {
+              "Plant Code": 54321,
+              "MMBTU_net": 6952298,
+              "MWh_net": 206240.75699999998,
+              "Latitude": 29.9728,
+              "Longitude": -94.2142,
+              "min_dist_t": 4340.595308882066
+            }
+          },
+          54321,
+          6952298,
+          206240.75699999998,
+          29.9728,
+          -94.2142,
+          4340.595308882066
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -106.39131400278163,
+                31.762540208903154
+              ]
+            },
+            "properties": {
+              "Plant Code": 54628,
+              "MMBTU_net": 709355,
+              "MWh_net": 42263.48,
+              "Latitude": 31.764458,
+              "Longitude": -106.391314,
+              "min_dist_t": 596.7430436973883
+            }
+          },
+          54628,
+          709355,
+          42263.48,
+          31.764458,
+          -106.391314,
+          596.7430436973883
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.34200000144027,
+                28.978383673996188
+              ]
+            },
+            "properties": {
+              "Plant Code": 54676,
+              "MMBTU_net": 26635770,
+              "MWh_net": 2778673.63,
+              "Latitude": 28.9802,
+              "Longitude": -95.342,
+              "min_dist_t": 773.2504149245897
+            }
+          },
+          54676,
+          26635770,
+          2778673.63,
+          28.9802,
+          -95.342,
+          773.2504149245897
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.95229400120915,
+                29.976905254247338
+              ]
+            },
+            "properties": {
+              "Plant Code": 54748,
+              "MMBTU_net": 0,
+              "MWh_net": 0,
+              "Latitude": 29.97876,
+              "Longitude": -93.952294,
+              "min_dist_t": 1768.19725866153
+            }
+          },
+          54748,
+          0,
+          0,
+          29.97876,
+          -93.952294,
+          1768.19725866153
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.74500000150444,
+                29.07098001738656
+              ]
+            },
+            "properties": {
+              "Plant Code": 55015,
+              "MMBTU_net": 35467041,
+              "MWh_net": 2182774.6,
+              "Latitude": 29.0728,
+              "Longitude": -95.745,
+              "min_dist_t": 256.2765012515446
+            }
+          },
+          55015,
+          35467041,
+          2182774.6,
+          29.0728,
+          -95.745,
+          256.2765012515446
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.17647900141114,
+                29.722904814887183
+              ]
+            },
+            "properties": {
+              "Plant Code": 55047,
+              "MMBTU_net": 29356267,
+              "MWh_net": 3821780,
+              "Latitude": 29.72475,
+              "Longitude": -95.176479,
+              "min_dist_t": 613.6908513753625
+            }
+          },
+          55047,
+          29356267,
+          3821780,
+          29.72475,
+          -95.176479,
+          613.6908513753625
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.77138900117876,
+                30.04254280736859
+              ]
+            },
+            "properties": {
+              "Plant Code": 55104,
+              "MMBTU_net": 1585095,
+              "MWh_net": 110650,
+              "Latitude": 30.0444,
+              "Longitude": -93.771389,
+              "min_dist_t": 263.83247378174536
+            }
+          },
+          55104,
+          1585095,
+          110650,
+          30.0444,
+          -93.771389,
+          263.83247378174536
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.8835920011977,
+                29.952467167763075
+              ]
+            },
+            "properties": {
+              "Plant Code": 55122,
+              "MMBTU_net": 5925038,
+              "MWh_net": 427694.54,
+              "Latitude": 29.954321,
+              "Longitude": -93.883592,
+              "min_dist_t": 2032.6631812689593
+            }
+          },
+          55122,
+          5925038,
+          427694.54,
+          29.954321,
+          -93.883592,
+          2032.6631812689593
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.12174400140206,
+                29.835102573748934
+              ]
+            },
+            "properties": {
+              "Plant Code": 55187,
+              "MMBTU_net": 55204694,
+              "MWh_net": 5126494,
+              "Latitude": 29.836952,
+              "Longitude": -95.121744,
+              "min_dist_t": 1251.5612047297652
+            }
+          },
+          55187,
+          55204694,
+          5126494,
+          29.836952,
+          -95.121744,
+          1251.5612047297652
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -97.42830000177307,
+                27.81213134506914
+              ]
+            },
+            "properties": {
+              "Plant Code": 55206,
+              "MMBTU_net": 19954448,
+              "MWh_net": 2098241.33,
+              "Latitude": 27.8139,
+              "Longitude": -97.4283,
+              "min_dist_t": 625.9903725602747
+            }
+          },
+          55206,
+          19954448,
+          2098241.33,
+          27.8139,
+          -97.4283,
+          625.9903725602747
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.23190000142013,
+                29.717055036789755
+              ]
+            },
+            "properties": {
+              "Plant Code": 55299,
+              "MMBTU_net": 40699957,
+              "MWh_net": 4114081.7399999998,
+              "Latitude": 29.7189,
+              "Longitude": -95.2319,
+              "min_dist_t": 460.5326482288132
+            }
+          },
+          55299,
+          40699957,
+          4114081.7399999998,
+          29.7189,
+          -95.2319,
+          460.5326482288132
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.96515000121147,
+                29.864646461725435
+              ]
+            },
+            "properties": {
+              "Plant Code": 55309,
+              "MMBTU_net": 11588618,
+              "MWh_net": 788942.655,
+              "Latitude": 29.866497,
+              "Longitude": -93.96515,
+              "min_dist_t": 654.333373952688
+            }
+          },
+          55309,
+          11588618,
+          788942.655,
+          29.866497,
+          -93.96515,
+          654.333373952688
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.07180000139422,
+                29.700955647901306
+              ]
+            },
+            "properties": {
+              "Plant Code": 55365,
+              "MMBTU_net": 1098635,
+              "MWh_net": 88330,
+              "Latitude": 29.7028,
+              "Longitude": -95.0718,
+              "min_dist_t": 158.871600684396
+            }
+          },
+          55365,
+          1098635,
+          88330,
+          29.7028,
+          -95.0718,
+          158.871600684396
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.1345080014044,
+                29.711569244958554
+              ]
+            },
+            "properties": {
+              "Plant Code": 55464,
+              "MMBTU_net": 76694168,
+              "MWh_net": 7385212,
+              "Latitude": 29.713414,
+              "Longitude": -95.134508,
+              "min_dist_t": 369.6227746885518
+            }
+          },
+          55464,
+          76694168,
+          7385212,
+          29.713414,
+          -95.134508,
+          369.6227746885518
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.93277300137247,
+                29.37626509705153
+              ]
+            },
+            "properties": {
+              "Plant Code": 55470,
+              "MMBTU_net": 40455454,
+              "MWh_net": 3985406.66,
+              "Latitude": 29.378097,
+              "Longitude": -94.932773,
+              "min_dist_t": 1448.459558718161
+            }
+          },
+          55470,
+          40455454,
+          3985406.66,
+          29.378097,
+          -94.932773,
+          1448.459558718161
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.39541700144882,
+                28.986944335138315
+              ]
+            },
+            "properties": {
+              "Plant Code": 56152,
+              "MMBTU_net": 11708825,
+              "MWh_net": 1295707.59,
+              "Latitude": 28.988761,
+              "Longitude": -95.395417,
+              "min_dist_t": 1382.6888399673564
+            }
+          },
+          56152,
+          11708825,
+          1295707.59,
+          28.988761,
+          -95.395417,
+          1382.6888399673564
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.92312000136995,
+                29.74979879569686
+              ]
+            },
+            "properties": {
+              "Plant Code": 56806,
+              "MMBTU_net": 13399980,
+              "MWh_net": 1741098,
+              "Latitude": 29.751645,
+              "Longitude": -94.92312,
+              "min_dist_t": 4964.058876119701
+            }
+          },
+          56806,
+          13399980,
+          1741098,
+          29.751645,
+          -94.92312,
+          4964.058876119701
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -94.90066100136612,
+                29.836288529075887
+              ]
+            },
+            "properties": {
+              "Plant Code": 57322,
+              "MMBTU_net": 1846350,
+              "MWh_net": 101942.54,
+              "Latitude": 29.838138,
+              "Longitude": -94.900661,
+              "min_dist_t": 89.61994901801889
+            }
+          },
+          57322,
+          1846350,
+          101942.54,
+          29.838138,
+          -94.900661,
+          89.61994901801889
+        ],
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.3069440014346,
+                28.977350714895657
+              ]
+            },
+            "properties": {
+              "Plant Code": 59145,
+              "MMBTU_net": 6088034,
+              "MWh_net": 568993,
+              "Latitude": 28.979167,
+              "Longitude": -95.306944,
+              "min_dist_t": 3417.2390322263063
+            }
+          },
+          59145,
+          6088034,
+          568993,
+          28.979167,
+          -95.306944,
+          3417.2390322263063
+        ]
+      ],
+      "fields": [
+        {
+          "name": "_geojson",
+          "type": "geojson",
+          "format": "",
+          "analyzerType": "GEOMETRY"
+        },
+        {
+          "name": "Plant Code",
+          "type": "integer",
+          "format": "",
+          "analyzerType": "INT"
+        },
+        {
+          "name": "MMBTU_net",
+          "type": "integer",
+          "format": "",
+          "analyzerType": "INT"
+        },
+        {
+          "name": "MWh_net",
+          "type": "real",
+          "format": "",
+          "analyzerType": "FLOAT"
+        },
+        {
+          "name": "Latitude",
+          "type": "real",
+          "format": "",
+          "analyzerType": "FLOAT"
+        },
+        {
+          "name": "Longitude",
+          "type": "real",
+          "format": "",
+          "analyzerType": "FLOAT"
+        },
+        {
+          "name": "min_dist_t",
+          "type": "real",
+          "format": "",
+          "analyzerType": "FLOAT"
+        }
+      ]
+    }
+  }
+]
